@@ -4,4 +4,4 @@ This github orgnization is an attempt to create a set of configurable, re-usable
 
 ### Support or Contact
 
-Want to be a part of this small and humble group of software engineers? Do DM me on [our twitter account](https://twitter.com/psgganesh) and I can add you in as a contributor.
+Want to be a part of this small and humble group of software engineers ? Send a DM on [this twitter account](https://twitter.com/psgganesh) with the open-source package you would like to contribute and we can add you in as a contributor.
