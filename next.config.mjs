@@ -9,7 +9,8 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
-  assetPrefix: './'
+  assetPrefix: './',
+  output: 'export'
 }
 
 const withMDX = nextMDX({
