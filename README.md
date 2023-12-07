@@ -1,14 +1,16 @@
-# Default starter for Gridsome
+# Repo. of iwouldrathercode.com
 
-This is the project you get when you run `gridsome create new-project`.
+iwouldrathercode is using a [Spotlight Tailwind UI template](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
-### 1. Install Gridsome CLI tool if you don't have
+## License
 
-`npm install --global @gridsome/cli`
+This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
 
-### 2. Create a Gridsome project
+## Learn more
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+To learn more about the technologies used in this site template, see the following resources:
+
+- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
+- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
+- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
+- [MDX](https://mdxjs.com) - the MDX documentation
